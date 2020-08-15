@@ -16,7 +16,7 @@
 title: Tutoring
 email: klai8899@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a test.
+  Tutoring is for everyone! :)
 twitter_username:
 github_username:example-lai8899
 minimal_mistakes_skin: dark
@@ -68,34 +68,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kellen Lai"
-  avatar : "/assets/images/headshot.jpg"
-  bio    : "Example bio. Write something sweet and short."
+  name   : Tutoring
+  avatar : "/assets/images/BookPic.png"
+  bio    : "Easy access to tutoring online"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://michaelsyao.com/about/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://example-lai8899.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wt121"
-      #    - label: "Instagram"
-      #      icon: "fab fa-fw fa-instagram"
-      #      url: "https://instagram.com/myaomeowww"
+      url: "https://github.com/example-lai8899"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kellen.ial4444"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wt121"
-      #    - label: "Instagram"
-      #      icon: "fab fa-fw fa-instagram"
-      #      url: "https://instagram.com/myaomeowww"
+      url: "https://github.com/example-lai8899"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kellen.ial4444"
 
 defaults:
   # _posts
