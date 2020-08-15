@@ -68,7 +68,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Wesley Tsai"
+  name   : "Kellen Lai"
   avatar : "/assets/images/headshot.jpg"
   bio    : "Example bio. Write something sweet and short."
   links:
@@ -84,6 +84,23 @@ author:
       #    - label: "Instagram"
       #      icon: "fab fa-fw fa-instagram"
       #      url: "https://instagram.com/myaomeowww"
+ author:
+   name   : "Warren Lai"
+   avatar : "/assets/images/headshot.jpg"
+   bio    : "Example bio. Write something sweet and short."
+   links:
+     - label: "Website"
+       icon: "fas fa-fw fa-link"
+       url: "https://michaelsyao.com/about/"
+     - label: "Twitter"
+       icon: "fab fa-fw fa-twitter-square"
+       url: "https://twitter.com/"
+     - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+       url: "https://github.com/wt121"
+       #    - label: "Instagram"
+       #      icon: "fab fa-fw fa-instagram"
+       #      url: "https://instagram.com/myaomeowww"
 
 footer:
   links:
