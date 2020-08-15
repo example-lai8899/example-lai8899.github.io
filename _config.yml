@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a test.
 twitter_username:
 github_username:
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 search_provider:
 
@@ -30,7 +30,7 @@ google:
 algolia:
     application_id:
     index_name:
-    search_only_api_key: 
+    search_only_api_key:
     powered_by: false
 
 # Build settings
