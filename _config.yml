@@ -21,17 +21,17 @@ twitter_username:
 github_username:
 minimal_mistakes_skin: dark
 search: true
-search_provider:
+search_provider: algolia
 
 google:
     tracking_id:
     anonymize_ip: true
 
 algolia:
-    application_id:
-    index_name:
-    search_only_api_key:
-    powered_by: false
+    application_id:test_Kellen
+    index_name: H3SCC310US
+    search_only_api_key: a356b2d993ebc93742017336809da3ba
+    powered_by: True
 
 # Build settings
 markdown: kramdown
@@ -75,6 +75,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://example-lai8899.github.io"
+    - label: "Villa Park High School"
+      icon:
+      url: "https://villaparkhigh.org/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/example-lai8899"
@@ -90,6 +93,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kellen.ial4444"
+    - label: "Villa Park High School"
+      icon:
+      url: "https://villaparkhigh.org/"
 
 defaults:
   # _posts
