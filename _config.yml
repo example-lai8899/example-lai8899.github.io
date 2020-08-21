@@ -21,7 +21,7 @@ twitter_username:
 github_username:
 minimal_mistakes_skin: dark
 search: true
-search_provider: Lunr
+search_provider: algolia
 
 google:
     tracking_id:
@@ -76,7 +76,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://example-lai8899.github.io"
     - label: "Villa Park High School"
-      icon:
+      icon: "fas fa-fw fa-school"
       url: "https://villaparkhigh.org/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -94,7 +94,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kellen.ial4444"
     - label: "Villa Park High School"
-      icon:
+      icon: "fas fa-fw fa-school"
       url: "https://villaparkhigh.org/"
 
 defaults:
