@@ -21,7 +21,7 @@ twitter_username:
 github_username:
 minimal_mistakes_skin: dark
 search: true
-search_provider: algolia
+search_provider: Lunr
 
 google:
     tracking_id:
