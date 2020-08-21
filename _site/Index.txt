@@ -175,18 +175,18 @@
   
     <div class="author__avatar">
       
-        <img src="/assets/images/headshot.jpg" alt="Wesley Tsai" itemprop="image">
+        <img src="/assets/images/BookPic.jpg" alt="Tutoring" itemprop="image">
       
     </div>
   
 
   <div class="author__content">
     
-      <h3 class="author__name" itemprop="name">Wesley Tsai</h3>
+      <h3 class="author__name" itemprop="name">Tutoring</h3>
     
     
       <div class="author__bio" itemprop="description">
-        <p>Example bio. Write something sweet and short.</p>
+        <p>Easy access to free tutoring.</p>
 
       </div>
     
