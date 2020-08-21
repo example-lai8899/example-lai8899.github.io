@@ -13,7 +13,7 @@
 <meta name="description" content="This is a test.">
 
 
-  <meta name="author" content="Wesley Tsai">
+  <meta name="author" content="Tutoring Club">
 
 
 <meta property="og:type" content="website">
