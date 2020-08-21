@@ -3,7 +3,8 @@ title: "About"
 author_profile: true
 ---
 
-This is text. This is also markdown. :smiley:
+EL TRUCO + LA CUCARACHA 
+:smiley:
 
 # This is a header.
 
