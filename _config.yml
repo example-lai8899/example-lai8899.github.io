@@ -77,7 +77,7 @@ author:
       url: "https://example-lai8899.github.io"
     - label: "Villa Park High School"
       icon: "fas fa-fw fa-school"
-      url: "https://villaparkhigh.org/"
+      url: "https://villaparkhigh.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/example-lai8899"
@@ -95,7 +95,7 @@ footer:
       url: "https://instagram.com/kellen.ial4444"
     - label: "Villa Park High School"
       icon: "fas fa-fw fa-school"
-      url: "https://villaparkhigh.org/"
+      url: "https://villaparkhigh.org"
 
 defaults:
   # _posts
