@@ -28,7 +28,7 @@ google:
     anonymize_ip: true
 
 algolia:
-    application_id:H3SCC310US
+    application_id: H3SCC310US
     index_name: test_Kellen
     search_only_api_key: a356b2d993ebc93742017336809da3ba
     powered_by: True
