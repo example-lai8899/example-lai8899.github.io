@@ -69,7 +69,7 @@ plugins:
 
 author:
   name   : Tutoring
-  avatar : "/assets/images/BookPic.png"
+  avatar : "/assets/images/BookPic.jpg"
   bio    : "Easy access to tutoring online"
   links:
     - label: "Website"
