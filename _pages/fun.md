@@ -1,6 +1,6 @@
 ---
-permalink: /fun/
-title: "Leisure"
+permalink: /Articles/
+title: "Articles"
 ---
 
-This is a test.
+Articles
