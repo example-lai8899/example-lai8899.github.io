@@ -15,8 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 <<<<<<< HEAD
 title: Tutoring
-=======
-title: Tutoring
 >>>>>>> 
 email: klai8899@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
