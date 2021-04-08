@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 <<<<<<< HEAD
-title: examplelai
+title: Tutoring
 =======
 title: Tutoring
 >>>>>>> parent of 89836b1... d
