@@ -13,10 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<<<<<<< HEAD
 title: examplelai
+=======
+title: Tutoring
+>>>>>>> parent of 89836b1... d
 email: klai8899@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A site filled with fun activites you can do!
+  Tutoring is for everyone! :)
 twitter_username:
 github_username:
 minimal_mistakes_skin: dark
@@ -68,9 +72,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : Stemtopoly
+  name   : Tutoring
   avatar : "/assets/images/BookPic.jpg"
-  bio    : "Easy access to science experiments you can do at home"
+  bio    : "Easy access to tutoring online"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
