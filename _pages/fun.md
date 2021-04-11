@@ -1,6 +1,6 @@
 ---
-permalink: /Articles/
-title: "Articles"
+permalink: /Videos/
+title: "Videos"
 ---
 
-Articles
+
