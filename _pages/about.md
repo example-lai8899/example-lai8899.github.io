@@ -1,8 +1,5 @@
 ---
 permalink: /about/
-title: "Test"
+title: "About Us"
 ---
 
-Hello! This is an about page.
-
-This is a change.
