@@ -41,7 +41,7 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate: 0 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Pacific
-# logo: "/assets/images/lightbulb.jpg"
+# logo: "/assets/images/lightbulb.png"
 
 include:
   - _pages
@@ -69,8 +69,8 @@ plugins:
 
 author:
   name   : Stemtopoly
-  avatar : "/assets/images/lightbulb.jpg"
-  bio    : "Discover science at home"
+  avatar : "/assets/images/lightbulb.png"
+  bio    : "Discover science at home."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
