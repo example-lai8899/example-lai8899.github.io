@@ -2,4 +2,4 @@
 permalink: /about/
 title: "About Us"
 ---
-
+We are a group of high school students from Villa Park High School looking to bring STEM-related activities to students, specifically starting with underpriviledged elementary school students. Currently, our focus has been to provide a variety of activities for students in afterschool CARES programs at 3 elementary schools, as these children's parents are unable to pick them up afterschool until much later. Our goal is to expand the program to the entire district of Orange County, where we provide all students with the opportunity to develop profound interests in STEM, whether it be a hobby or a career goal. Due to the COVID-19 pandemic, we have been unable to physically provide these activites for students. Thus, we are in the process of developing virtual activites that can be done at home using everyday materials. We are always welcoming new members to the program (sign up here), and there are possible volunteer hours to be earned through this program as well. 
