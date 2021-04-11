@@ -1,12 +1,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Test"
-    url: /curriculum-vitae/
-  - title: "Teaching"
-    url: /teaching-material/
+  - title: "Videos"
+    url: /videos/
   - title: "Projects"
     url: /projects/
-  - title: "Leisure"
-    url: /fun/
+  - title: "Locations"
+    url: /locations/ 
+  - title: "Join"
+    url: /join/
   
