@@ -2,5 +2,4 @@
 title: "Stemtopoly"
 author_profile: true
 ---
-Stemtopoly!!
-![image](/assets/images/lightbulb.jpg)
+![image](/assets/images/StemtopolyPic.PNG)
