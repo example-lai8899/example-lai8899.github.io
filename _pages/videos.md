@@ -1,8 +1,7 @@
 ---
-permalink: /Videos/
-title: "Videos"
+permalink: /Join/
+title: "Join"
 toc: true
 toc_label: "Navigation"
 ---
 
-Videos
