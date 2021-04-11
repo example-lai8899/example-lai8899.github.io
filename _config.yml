@@ -41,7 +41,7 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate: 0 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Pacific
-# logo: "/assets/images/logo.png"
+# logo: "/assets/images/lightbulb.jpg"
 
 include:
   - _pages
@@ -69,7 +69,7 @@ plugins:
 
 author:
   name   : Stemtopoly
-  avatar : "/assets/images/BookPic.jpg"
+  avatar : "/assets/images/lightbulb.jpg"
   bio    : "Discover science at home"
   links:
     - label: "Website"
@@ -81,18 +81,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/example-lai8899"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stemtopoly"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/channel/UCSpuxFtJdmtAVYR-sKrOnDw"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/example-lai8899"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/stemtopoly"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/channel/UCSpuxFtJdmtAVYR-sKrOnDw"
     - label: "Villa Park High School"
       icon: "fas fa-fw fa-school"
       url: "https://villaparkhigh.org/"
