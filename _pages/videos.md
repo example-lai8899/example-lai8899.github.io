@@ -3,7 +3,5 @@ permalink: /Videos/
 title: "Videos"
 ---
 >## Fishing for Ice
-<video class="tab" controls>Your browser does not support the &lt;video&gt; tag.
-  <source src="https://www.youtube.com/watch?v=gGqSOqtuE1E"/>
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGqSOqtuE1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
