@@ -9,7 +9,7 @@ toc_label: "Schools"
 <p><img src="/assets/images/7289.jpg" alt="Serrano Elementary Pic2">
 >## Villa Park Elementary School
 >![image](/assets/images/villa-park-elementary-bobcats.jpg)
-<p><img src="/assets/images/2913.jpg" alt="Villa Park Elementary Pic2">
+>![image](/assets/images/2913.jpg)
 >## Nohl Canyon Elementary School
 <p><img src="/assets/images/NohlCanyon.PNG" alt="Nohl Canyon Elementary Pic">
 <p><img src="/assets/images/NohlCanyon2.PNG" alt="Nohl Canyon Elementary Pic2">
