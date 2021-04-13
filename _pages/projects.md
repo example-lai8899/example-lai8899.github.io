@@ -9,7 +9,7 @@ toc_label: "Contents"
 
 **Purpose:** To observe the effects of salt on ice and hopefully succeed in fishing for ice too!
 
-**Materials:**
+**Materials**
 
 -container filled with water
 
