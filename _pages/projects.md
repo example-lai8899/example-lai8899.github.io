@@ -33,9 +33,9 @@ When salt is added to ice, the salt dissolves into the thin layer of water on th
 
 
 
->## Project
+>## Bottle Rocket
 
-**Purpose:** 
+**Purpose:** To build and launch a rocket powered by water!
 
 **Materials**
 
