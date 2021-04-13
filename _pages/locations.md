@@ -11,5 +11,5 @@ toc_label: "Schools"
 >![image](/assets/images/villa-park-elementary-bobcats.jpg)
 >![image](/assets/images/2913.jpg)
 >## Nohl Canyon Elementary School
->![image](/assets/NohlCanyon.PNG)
->![image](/assets/NohlCanyon2.PNG)
+>![image](/assets/images/NohlCanyon.PNG)
+>![image](/assets/images/NohlCanyon2.PNG)
