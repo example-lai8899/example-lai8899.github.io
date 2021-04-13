@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username:
 github_username:
 minimal_mistakes_skin: dark
-search: true
+search: false
 search_provider: algolia
 
 google:
@@ -28,10 +28,10 @@ google:
     anonymize_ip: true
 
 algolia:
-    application_id: 
+    application_id: H3SCC310US
     index_name: test_Kellen
     search_only_api_key: a356b2d993ebc93742017336809da3ba
-    powered_by: false
+    powered_by: true
 
 # Build settings
 markdown: kramdown
