@@ -30,3 +30,20 @@ toc_label: "Contents"
 **Explanation**
 
 When salt is added to ice, the salt dissolves into the thin layer of water on the ice, lowering the melting point. Because the melting point lowers, the ice cube begins to melt, creating more liquid. This water combines with the salt water solution, effectively diluting it and raising the melting point again. The result of this is the resolidification of ice, where the melted water around the string turns back into ice. With this, the string is trapped in the ice, which is why we are able to lift it up and basically "fish" for ice. This experiment actually uses the same logic that is used in pouring salt on an icy sidewalk to melt it, where the salt is able to lower its melting point and cause it to turn into water.
+
+
+
+>## Project
+
+**Purpose:** 
+
+**Materials**
+
+-
+
+**Procedures**
+1.
+
+**Explanation**
+
+
