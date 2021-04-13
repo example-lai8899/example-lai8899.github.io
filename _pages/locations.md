@@ -11,5 +11,5 @@ toc_label: "Schools"
 <p><img src="/assets/images/villa-park-elementary-bobcats.jpg" alt="Villa Park Elementary Pic" style="float:right;width:42px;height:42px;">
 <p><img src="/assets/images/2913.jpg" alt="Villa Park Elementary Pic2" style="float:right;width:42px;height:42px;">
 > ## Nohl Canyon Elementary School
-<p><img src="/assets/images/NohlCanyon.jpg" alt="Nohl Canyon Elementary Pic" style="float:right;width:42px;height:42px;">
-<p><img src="/assets/images/NohlCanyon2.jpg" alt="Nohl Canyon Elementary Pic2" style="float:right;width:42px;height:42px;">
+<p><img src="/assets/images/NohlCanyon.png" alt="Nohl Canyon Elementary Pic" style="float:right;width:42px;height:42px;">
+<p><img src="/assets/images/NohlCanyon2.png" alt="Nohl Canyon Elementary Pic2" style="float:right;width:42px;height:42px;">
