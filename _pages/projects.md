@@ -111,3 +111,33 @@ When we put the cork into the opening of the water bottle, we effectively are tr
 
 Plants have an important process named transpiration, in which water flows from the roots to the leaves and then is lost from the leaves through evaporation. In this process, there are tubelike structures called xylem that carry water and nutrients up the plant through the roots. In this experiment, we are using this concept of transpiration in order to change the color of the plant. As can be seen in the celery, there are streaks of color along the plant because the dyed water is being transported up. With the leaves, the color shows up on the petals because that is where the water ultimately goes to after it is transported up the plant.
 
+>## Lava Lamps
+
+**Purpose:** To make lava lamps!
+
+**Materials**
+
+-oil
+
+-clear cups 
+
+-water
+
+-oil
+
+-straws (or other stirring rods)
+
+-food coloring
+
+-Alka-Seltzer Tablets
+
+**Procedures**
+1. Fill all the cups with a little bit of water (around 1/10th full)
+2. Add food coloring of your choice to each of your cups
+3. Stir the mixture with the straw
+4. Take the oil and pour it into each of the cups (fill it almost up to full)
+5. For the final step, take an Alka-Seltzer Tablet and place it in each of the cups to activate the lava lamp
+
+**Explanation**
+
+The reason these lava lamps work is because the alka-seltzer tablets react with water to form carbon dioxide gas. These carbon dioxide gas molecules have much lower density, and they carry the water droplets with food coloring to the top. Once it reaches the top, the carbon dioxide bubbles pop and, since the water is denser than the oil, the colored water sinks back down to the bottom. The reason why this works is because water is denser than oil and they are insoluble in one another. In other words, they do not mix together well at all, and the water will sink below the oil because denser objects sink.
