@@ -39,10 +39,42 @@ When salt is added to ice, the salt dissolves into the thin layer of water on th
 
 **Materials**
 
--
+-cardboard
+
+-hammer
+
+-nail (1 inch or longer)
+
+-tape
+
+-electrical tape
+
+-scissors
+
+-cork
+
+-ruler
+
+-bike pump with inflation needle
+
+-plastic water bottle (half-full of water)
 
 **Procedures**
-1.
+1. Take the cork and trim it down to 3 cm long
+2. Take electrical tape and wrap it around the cork five times (add one or two more if the cork does not fit snugly into the plastic water bottle)
+3. Hammer the nail through the cork to create a hole
+4. Cut the cardboard into triangles that are 15 cm by 5 cm
+5. Take the construction paper and wrap it around the bottle; tape it on securely
+6. For the cone, cut a semicircle with about a 7 cm radius
+7. Cut a line from the flat side that extends a few centimeters into the semicircle
+8. fold the semicircle into a cone shape, and tape it together
+9. Tape the cone onto the bottom of the water bottle (the water bottle should be launched while being upside down)
+10. Attach all four cardboard triangles as fins for the rocket using tape
+11. Make sure to have the bottom of the fins about 7 cm below the bottom of the upside down water bottle
+12. To launch, remove the bottle cap from the rocket
+13. Insert the inflation needle into the hole in the cork
+14. Push the cork into the opening of the water bottle, making sure that no water leaks out
+15. Using the bike pump that attaches to the inflation needle, pump air into the rocket and watch it shoot out into the sky!
 
 **Explanation**
 
