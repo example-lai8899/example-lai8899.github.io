@@ -167,3 +167,36 @@ The reason these lava lamps work is because the alka-seltzer tablets react with 
 **Explanation**
 
 The reason why the balloon seems to inflate on its own is because when baking soda contacts vinegar, the two react to produce carbon dioxide gas. As more and more carbon dioxide gas fill up the bottle, the gas has nowhere else to go so it pushes into the balloon and starts to inflate it. The more carbon dioxide gas that is produced, the more inflated the balloon will become. Furthermore, the warmer the temperature, the more inflated the ballon will become. This is similar in fashion since warmer temperatures will cause the gas particles to move around more and more movement in the particles means more inflation for the balloon.
+
+>## Extracting Strawberry DNA
+
+**Purpose:** To extract and observe DNA from strawberries!
+
+**Materials**
+
+-laminated construction paper (construction paper wrapped with food wrap also works)
+
+-ziploc bag 
+
+-strainer
+
+-3 strawberries
+
+-a toothpick
+
+-a spoon
+
+-a clear cup
+
+-isopropyl alcohol (rubbing alcohol)
+
+**Procedures**
+1. Start by removing all the green leaves and stem from the strawberry and put them all in the ziploc bag
+2. Close the ziploc bag tightly and start squeezing/smashing the strawberries (more liquid can result in more visible DNA)
+3. Strain the smashed strawberries from the ziploc bag into the clear cup making sure to get as much of the liquid as possible
+4. Pour a nice layer of rubbing alcohol over the top of the strained strawberries and leave it for a few minutes
+5. At the top of the rubbing alcohol, white strands of DNA will form and use the toothpick to fish the strands out for observation.
+
+**Explanation**
+
+The DNA can be extracted in this manner because smashing the strawberries is basically breaking the cells and nucleus, allowing the DNA to be revealed. To separate and DNA from the rest of the strawberry and make it more visible, the rubbing alcohol comes in and acts as a precipitate (extracts DNA from the rest of the strawberry). The alcohol takes the revealed DNA from the strawberry solution and puuls it out with the rest of the alcohol, revealing strands of visible DNA.
