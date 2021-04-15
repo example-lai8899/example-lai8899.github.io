@@ -141,3 +141,29 @@ Plants have an important process named transpiration, in which water flows from 
 **Explanation**
 
 The reason these lava lamps work is because the alka-seltzer tablets react with water to form carbon dioxide gas. These carbon dioxide gas molecules have much lower density, and they carry the water droplets with food coloring to the top. Once it reaches the top, the carbon dioxide bubbles pop and, since the water is denser than the oil, the colored water sinks back down to the bottom. The reason why this works is because water is denser than oil and they are insoluble in one another. In other words, they do not mix together well at all, and the water will sink below the oil because denser objects sink.
+
+>## Inflating Balloons
+
+**Purpose:** To inflate balloons using a chemical reaction!
+
+**Materials**
+
+-baking soda
+
+-a spoon 
+
+-balloons
+
+-empty plastic water bottles
+
+-white vinegar
+
+**Procedures**
+1. Pour the white vinegar into the water bottles until it reaches the second line from the bottom (around 1/6 full)
+2. Add one spoonful of baking soda into each balloon 
+3. Attach each ballon over the mouth of the vinegar filled water bottle without letting any of the baking soda out of the balloon
+4. To inflate the balloon, lift up the attached ballon to let the baking soda fall into the vinegar and air will start to expand, inflating the balloon.
+
+**Explanation**
+
+The reason why the balloon seems to inflate on its own is because when baking soda contacts vinegar, the two react to produce carbon dioxide gas. As more and more carbon dioxide gas fill up the bottle, the gas has nowhere else to go so it pushes into the balloon and starts to inflate it. The more carbon dioxide gas that is produced, the more inflated the balloon will become. Furthermore, the warmer the temperature, the more inflated the ballon will become. This is similar in fashion since warmer temperatures will cause the gas particles to move around more and more movement in the particles means more inflation for the balloon.
