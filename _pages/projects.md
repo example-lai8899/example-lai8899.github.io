@@ -199,4 +199,4 @@ The reason why the balloon seems to inflate on its own is because when baking so
 
 **Explanation**
 
-The DNA can be extracted in this manner because smashing the strawberries is basically breaking the cells and nucleus, allowing the DNA to be revealed. To separate and DNA from the rest of the strawberry and make it more visible, the rubbing alcohol comes in and acts as a precipitate (extracts DNA from the rest of the strawberry). The alcohol takes the revealed DNA from the strawberry solution and puuls it out with the rest of the alcohol, revealing strands of visible DNA.
+The DNA can be extracted in this manner because smashing the strawberries is basically breaking the cells and nucleus, allowing the DNA to be revealed. To separate the DNA from the rest of the strawberry and make it more visible, the rubbing alcohol comes in and acts as a precipitate (extracts DNA from the rest of the strawberry). The alcohol takes the revealed DNA from the strawberry solution and puuls it out with the rest of the alcohol, revealing strands of visible DNA.
